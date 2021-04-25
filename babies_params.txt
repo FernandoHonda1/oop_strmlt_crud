@@ -1,0 +1,4 @@
+ {database: 'strmlt_crud_db'
+  user: 'postgres'
+  password: '5432'
+  host: 'localhost'}
